@@ -1,27 +1,15 @@
-#YouTube ads
 https://github.com/anudeepND/youtubeadsblacklist/blob/master/domainlist.txt
-#TEST Adblock List
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
-#Advertising Lists
 http://v.firebog.net/hosts/Easylist.txt
-#Tracking & Telemetry Lists
 http://v.firebog.net/hosts/Easyprivacy.txt
-#Malicious Lists
 http://v.firebog.net/hosts/Shalla-mal.txt
-#Suspicious Lists
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
-##Disconnect.me Tracking
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-##Disconnect.me Ads
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-##Hosts-file.net
 https://hosts-file.net/ad_servers.txt
-#Custom Lists
 https://hosts-file.net/grm.txt 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
-#Block List based on hblock for linux
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-#Another test
 https://jasonhill.co.uk/pfsense/ytadblock.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 file:///etc/pihole/youtube.hosts
